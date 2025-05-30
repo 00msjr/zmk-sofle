@@ -129,7 +129,7 @@ layers:
   - '3'
   - END
   - PgUp
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-control$$
   '2':
   - '~'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
