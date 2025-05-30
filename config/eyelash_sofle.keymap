@@ -60,7 +60,7 @@
 &trans        &kp GRAVE        &mkp LCLK       &mkp MCLK   &mkp RCLK    &mkp MB4           &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP      &kp HOME     &kp MINUS         &kp EQUAL
 &kp CAPSLOCK  &kp TILDE        &trans          &trans      &trans       &mkp MB5           &mmv MOVE_LEFT   &kp LEFT         &kp DOWN         &kp UP      &kp RIGHT    &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans        &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &kp K_COPY  &kp K_PASTE  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp INSERT  &kp F11      &kp F12           &trans
-&kp C_MUTE    &trans           &trans          &trans      &trans       &trans             &mkp LCLK        &kp INSERT       &mo 3            &kp END     &kp PAGE_UP  &trans
+&kp C_MUTE    &trans           &trans          &trans      &trans       &trans             &mkp LCLK        &kp INSERT       &mo 3            &kp END     &kp PAGE_UP  &kp RCTRL
             >;
 
             display-name = "layer1";
